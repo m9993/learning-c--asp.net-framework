@@ -1,0 +1,53 @@
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\IMS Entity Framework DB First Approach.dll.config
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\IMS Entity Framework DB First Approach.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\IMS Entity Framework DB First Approach.pdb
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\csc.exe
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\csc.exe.config
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\csc.rsp
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\csi.exe
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\csi.rsp
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\System.AppContext.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\vbc.exe
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\vbc.exe.config
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\vbc.rsp
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\EntityFramework.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\EntityFramework.SqlServer.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Helpers.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Mvc.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Razor.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Webpages.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Webpages.Razor.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\EntityFramework.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\EntityFramework.SqlServer.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Razor.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Webpages.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Webpages.Razor.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Helpers.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\System.Web.Mvc.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\obj\Debug\IMS Entity Framework DB First Approach.csprojAssemblyReference.cache
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\obj\Debug\IMS Entity Framework DB First Approach.csproj.CoreCompileInputs.cache
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\obj\Debug\IMS Entity Framework DB First Approach.csproj.CopyComplete
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\obj\Debug\IMS Entity Framework DB First Approach.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\IMS Entity Framework DB First Approach\IMS Entity Framework DB First Approach\obj\Debug\IMS Entity Framework DB First Approach.pdb
