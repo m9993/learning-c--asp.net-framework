@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div style="color:red; margin-bottom:20px;">
+        @ViewData["msg"]
+    </div>
+    <form action="/" method="post">
+        <fieldset>
+            <legend>Information</legend>
+            <table>
+                <tr>
+                    <td>Name:</td>
+                    <td><input name="name"></td>
+                </tr>
+                <tr>
+                    <td>Username:</td>
+                    <td><input name="username"></td>
+                </tr>
+                <tr>
+                    <td>Password:</td>
+                    <td><input name="password"></td>
+                </tr>
+                <tr>
+                    <td>Confirm Password:</td>
+                    <td><input name="confirmPassword"></td>
+                </tr>
+                <tr>
+                    <td>Date of Birth:</td>
+                    <td><input name="dob" type="date"></td>
+                </tr>
+                <tr>
+                    <td>Gender:</td>
+                    <td><input name="gender" type="radio" value="male">Male</td>
+                    <td><input name="gender" type="radio" value="female">Female</td>
+                </tr>
+                <tr>
+                    <td>Blood Group:</td>
+                    <td>
+                        <select name="bloodGroup">
+                            <option value="A+">A+</option>
+                            <option value="B+">B+</option>
+                            <option value="O+">O+</option>
+                            <option value="AB+">AB+</option>
+
+                            <option value="A-">A-</option>
+                            <option value="B-">B-</option>
+                            <option value="O-">O-</option>
+                            <option value="AB-">AB-</option>
+
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><br></td>
+                </tr>
+                <tr>
+                    <td>Profile Picture:</td>
+                    <td><input type="file" name="profilePicture"></td>
+                </tr>
+                <tr>
+                    <td><br></td>
+                    <td><br /></td>
+                </tr>
+                <tr>
+                    <td><input type="checkbox" name="agree">I agree the terms and condition.</td>
+                </tr>
+                <tr>
+                    <td><input type="submit"></td>
+                </tr>
+            </table>
+        </fieldset>
+    </form>
+</body>
+</html>
