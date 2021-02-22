@@ -96,3 +96,52 @@ C:\Users\Muntasir Alam\Desktop\Inventory Management System with ADO.Net\Inventor
 C:\Users\Muntasir Alam\Desktop\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csprojAssemblyReference.cache
 C:\Users\Muntasir Alam\Desktop\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csproj.CoreCompileInputs.cache
 C:\Users\Muntasir Alam\Desktop\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csproj.CopyComplete
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Inventory Management System with ADO.Net.dll.config
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Inventory Management System with ADO.Net.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Inventory Management System with ADO.Net.pdb
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csc.exe
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csc.exe.config
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csc.rsp
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csi.exe
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\csi.rsp
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.AppContext.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\vbc.exe
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\vbc.exe.config
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\vbc.rsp
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\VBCSCompiler.exe
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Helpers.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Mvc.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Razor.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Razor.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Razor.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Webpages.Razor.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Helpers.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\System.Web.Mvc.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csprojAssemblyReference.cache
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csproj.CoreCompileInputs.cache
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.csproj.CopyComplete
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Inventory Management System with ADO.Net\Inventory Management System with ADO.Net\obj\Debug\Inventory Management System with ADO.Net.pdb
