@@ -27,9 +27,17 @@ namespace IMS_Entity_Framework_DB_First_Approach.Controllers
         [HttpPost]
         public ActionResult Create(Product product)
         {
-            context.Products.Add(product);
-            context.SaveChanges();
-            return RedirectToAction("Index");
+            if (ModelState.IsValid)
+            {
+                context.Products.Add(product);
+                context.SaveChanges();
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                ViewData["categories"] = context.Categories.ToList();
+                return View();
+            }
         }
 
         [HttpGet]
