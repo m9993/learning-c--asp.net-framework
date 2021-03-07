@@ -15,7 +15,7 @@ namespace Ch24ShoppingCartMVC.Models {
         {    
             using (HalloweenEntities data = new HalloweenEntities())
             {  //get all the products from the Collection Products order by name using HalloweenEntities
-                return data.Products.OrderBy(x => x.Name).ToList(); ;
+                return data.Products.OrderBy(x => x.Name).ToList(); 
             }
         }
         //Implement the method ConvertToViewModel

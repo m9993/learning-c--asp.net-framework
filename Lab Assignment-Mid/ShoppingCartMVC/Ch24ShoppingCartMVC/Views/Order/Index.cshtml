@@ -24,7 +24,7 @@
         <label id="lblUnitPrice">@product.UnitPrice.ToString("c2")</label>
         <label id="lblQuantity">Quantity&nbsp;</label>
         @Html.TextBoxFor(m => m.SelectedProduct.Quantity, new { id = "txtQuantity" }) 
-        @Html.HiddenFor(m => m.SelectedProduct.ProductID)
+        @Html.HiddenFor(m => m.SelectedProduct.ProductID) <h5 style="color:red;">@TempData["msg"]</h5>
         <br />
         <input type="submit" id="btnAdd" value="Add to Cart" />
     </div>

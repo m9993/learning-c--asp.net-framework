@@ -13,7 +13,7 @@ namespace Ch24ShoppingCartMVC.Controllers {
         [HttpGet]
         public RedirectToRouteResult Index()
         {
-            return RedirectToAction("List");
+            return RedirectToAction("List/");
         }
         [HttpGet]
         public ViewResult List()
@@ -32,12 +32,20 @@ namespace Ch24ShoppingCartMVC.Controllers {
         {
             CartViewModel model = cart.GetCart(order.SelectedProduct.ProductID);
             //Assign the quantity of the selected product to the quantity of the added product
-            model.AddedProduct.Quantity = order.SelectedProduct.Quantity;
-            //Call the method AddtoCart
-            cart.AddToCart(model);
-            //Assign model to the TempData
-            TempData["cart"] = model;
-            return RedirectToAction("List", "Cart");
+            if (order.SelectedProduct.Quantity > 0)
+            {
+                model.AddedProduct.Quantity = order.SelectedProduct.Quantity;
+                //Call the method AddtoCart
+                cart.AddToCart(model);
+                //Assign model to the TempData
+                TempData["cart"] = model;
+                return RedirectToAction("List", "Cart");
+            }
+            else
+            {
+                TempData["msg"] = "Minimum quantity is 1";
+                return RedirectToAction("Index", "Order");
+            }
         }
 
     }

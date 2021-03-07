@@ -1,0 +1,12 @@
+﻿@model Ch24ShoppingCartMVC.Models.CheckoutViewModel
+@{
+    ViewBag.Title = "ConfirmOrder";
+}
+
+<h2>Order Confirmed</h2>
+<h5 style="color:red; margin-top:10px;"> Your Order has been confirmed! </h5>
+<br />
+with-----
+<div>Payment Method: @Model.PaymentMethod</div>
+<div>Shipping Address: @Model.ShippingAddress</div>
+

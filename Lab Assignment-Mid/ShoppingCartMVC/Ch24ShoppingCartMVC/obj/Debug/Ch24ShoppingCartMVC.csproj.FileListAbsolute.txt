@@ -178,6 +178,8 @@ C:\Users\Muntasir Alam\Desktop\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCa
 C:\Users\Muntasir Alam\Desktop\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CopyComplete
 C:\Users\Muntasir Alam\Desktop\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll
 C:\Users\Muntasir Alam\Desktop\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.pdb
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.xml
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll.config
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.dll
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Ch24ShoppingCartMVC.pdb
@@ -188,7 +190,6 @@ C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\Newtonsoft.Json.dll
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.dll
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.dll
-C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.dll
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.dll
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Optimization.dll
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Providers.dll
@@ -202,11 +203,11 @@ C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Net.Http.Formatting.xml
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.xml
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Http.WebHost.xml
-C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Mvc.xml
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.Razor.xml
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.xml
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csprojAssemblyReference.cache
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CoreCompileInputs.cache
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.csproj.CopyComplete
 C:\Users\Muntasir Alam\Desktop\learning-cSharp-asp.net-framework\Lab Assignment-Mid\ShoppingCartMVC\Ch24ShoppingCartMVC\obj\Debug\Ch24ShoppingCartMVC.dll

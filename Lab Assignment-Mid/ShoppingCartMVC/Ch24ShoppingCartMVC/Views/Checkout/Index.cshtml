@@ -1,0 +1,50 @@
+﻿@model Ch24ShoppingCartMVC.Models.CartViewModel
+@{
+    ViewBag.Title = "Checkout";
+}
+
+<h2>Checkout</h2>
+
+<form style="float:right;" method="post" action="/Checkout/ConfirmOrder">
+    <h6 style="color:red;">@TempData["msg"]</h6>
+    <br />
+    <button type="submit" style="color:red;">Confirm Order</button>
+    <br />
+    <br />
+    <select name="paymentMethod">
+        <option value="" selected>Select Payment Method</option>
+        <option value="Visa">Visa</option>
+        <option value="MasterCard">Master Card</option>
+        <option value="PayPal">PayPal</option>
+    </select>
+    <br />
+    <br />
+    <label>Shipping Address:</label>
+    <br />
+    <textarea name="shippingAddress"></textarea>
+
+</form>
+<table style="margin-top:10px; text-align:center;" border="1">
+    <tr>
+        <th>Name</th>
+        <th>Unit Price</th>
+        <th>Quantity</th>
+        <th>Price for Quantity</th>
+    </tr>
+    @{ decimal totalPrice = 0;
+        decimal totalPriceWithTax = 0;
+        foreach (var item in Model.Cart)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.UnitPrice</td>
+                <td>@(item.Quantity * item.UnitPrice)</td>
+            </tr>
+            totalPrice += (@item.Quantity * @item.UnitPrice);
+            totalPriceWithTax = totalPrice + (totalPrice * 20) / 100;
+        }
+        <tr><td colspan="5" style="color:red;">Total: @totalPrice $</td></tr>
+        <tr><td colspan="5" style="color:red;">Total: @totalPriceWithTax $ (With 20% Tax)</td></tr>
+    }
+    </table>
